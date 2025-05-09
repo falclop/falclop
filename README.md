@@ -4,7 +4,7 @@
 🧠 Apasionado por la automatización, el desarrollo y las tecnologías que hacen del caos algo predecible.  
 🔧 Áreas de especialización:  
 - Gestión de **bases de datos**
-- Desarrollo con **Python**
+- Desarrollo de **Software**
 - Automatización con herramientas **IaC** como Terraform y Ansible
 - **Programación y desarrollo** de aplicaciones web y sistemas
 
