@@ -19,7 +19,7 @@ Trabajo creando y manteniendo infraestructuras sólidas, servicios eficientes y 
 
 ## 🎮 ¿Qué me gusta?
 
-- Los **videojuegos** (sí, me he pasado más veces el Witcher que tareas de clase 😅)
+- Los **videojuegos** (sí, me he pasado más veces el Disco Elysium que tareas de clase 😅)
 - El **rol**, tanto de mesa como en juegos
 - La estética **futurista**: cyberpunk, dieselpunk, synthwave...  
   Dame neones, naves oxidadas y ciudades con lluvia y me haces feliz.
